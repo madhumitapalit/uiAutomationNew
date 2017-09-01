@@ -1,0 +1,4 @@
+com\test\automation\uiAutomationNew\excelReader\Excel_Reader.class
+com\test\automation\uiAutomationNew\testBase\TestBase.class
+com\test\automation\uiAutomationNew\uiActions\createAccount.class
+com\test\automation\uiAutomationNew\uiActions\homePage.class

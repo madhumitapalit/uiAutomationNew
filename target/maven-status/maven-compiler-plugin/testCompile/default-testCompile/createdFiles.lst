@@ -1,0 +1,4 @@
+com\test\automation\uiAutomationNew\homePage\TC001_VerifyLoginWithInvalidCredential.class
+com\test\automation\uiAutomationNew\homePage\TC002_VerifyLoginWithDifferentRecords.class
+com\test\automation\uiAutomationNew\homePage\TC004_VerifyLoginWithValidCredential.class
+com\test\automation\uiAutomationNew\homePage\TC003_CreateAnAccount.class
