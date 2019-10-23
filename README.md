@@ -18,3 +18,4 @@ sendMail parameter is set to "false" by default. So if the parameter is not set,
 If no external testng file is provided in command line, following error may occur:
 
 Execution default-test of goal org.apache.maven.plugins:maven-surefire-plugin:2.19.1:test failed: testSuiteXmlFiles0 has null value
+Its useful
